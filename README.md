@@ -1,7 +1,7 @@
 # Enclosure
 
 ## Music Player
-<img src="pictures/speakers.jpg" width="600" height="350" >
+<img src="pictures/speakers.jpg" >
 
 ## Music Player Design
 <img src="pictures/device.png" width="600" height="500">
